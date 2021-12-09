@@ -1,4 +1,4 @@
-# JogoMoedaUnity
+# Jogo Moeda Usando Unity
 
 Jogo disponivel para ser jogado no site https://foxchanger.itch.io/moeda-treino-unity
 
